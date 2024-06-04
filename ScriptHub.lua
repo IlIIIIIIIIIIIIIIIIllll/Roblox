@@ -130,4 +130,4 @@ Game = {
     [73885730] = "PrisonLife"
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nahida-cn/Roblox/main/"..(Game[game.GameId] or "Universal")..".lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IlIIIIIIIIIIIIIIIIllll/Roblox/main/"..(Game[game.GameId] or "Universal")..".lua"))()
